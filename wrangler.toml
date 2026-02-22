@@ -1,4 +1,4 @@
-name = "calling"
+name = "on-call"
 compatibility_date = "2024-10-07"
 main = "./build/index.js"
 compatibility_flags = ["nodejs_compat"]
