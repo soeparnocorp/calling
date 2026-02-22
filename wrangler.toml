@@ -10,7 +10,7 @@ enabled = false
   bucket = "./public"
 
 [vars]
-CALLS_APP_ID = "fddc2d745a8682aea944b89179d4e8e1"
+CALLS_APP_ID = "READTALK_CALLS_APP_ID"
 
 # Optional vars
 # OPENAI_MODEL_ENDPOINT = ""
