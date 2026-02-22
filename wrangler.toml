@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 bucket = "./public"
 
 [vars]
-CALLS_APP_ID = "READTALK_CALLS_APP_ID"
+CALLS_APP_ID = "7c62581e-36f2-46b0-9131-dd985fa6d577"
 
 [[durable_objects.bindings]]
 name = "rooms"
