@@ -1,5 +1,5 @@
 {
-	"name": "@cloudflare/calling",
+	"name": "@cloudflare/orange-meets",
 	"scripts": {
 		"build": "remix build",
 		"build:e2ee-worker": "./rust-mls-worker/build.sh",
