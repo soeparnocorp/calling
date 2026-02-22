@@ -3,6 +3,8 @@ name = "orange-meets"
 compatibility_date = "2024-10-07"
 main = "./build/index.js"
 compatibility_flags = ["nodejs_compat"]
+[observability]
+enabled = false
 
 [site]
   bucket = "./public"
