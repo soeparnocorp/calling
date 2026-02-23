@@ -22,10 +22,10 @@ export const action = async ({ request }: ActionFunctionArgs) => {
 export default function SetUsername() {
 	return (
 		<div className="grid h-full gap-4 place-content-center">
-			<h1 className="text-3xl font-bold">🍊 Orange Meets</h1>
+			<h1 className="text-3xl font-bold">🔻READTalk</h1>
 			<Form className="flex items-end gap-4" method="post">
 				<div className="grid gap-3">
-					<label htmlFor="username">Enter your display name</label>
+					<label htmlFor="username">Display Name</label>
 					<Input
 						autoComplete="off"
 						autoFocus
