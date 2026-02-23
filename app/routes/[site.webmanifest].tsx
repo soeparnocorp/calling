@@ -16,7 +16,7 @@ export const loader = async () => {
 				type: 'image/png',
 			},
 		],
-		theme_color: '#ffffff',
+		theme_color: '#ff0000',
 		background_color: '#ffffff',
 		display: 'standalone',
 	})
