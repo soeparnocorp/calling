@@ -76,7 +76,7 @@ export const loader = async ({ request, context }: LoaderFunctionArgs) => {
 
 export const meta: MetaFunction = () => [
 	{
-		title: 'Orange Meets',
+		title: 'READTalk',
 	},
 ]
 
@@ -107,7 +107,7 @@ export const links: LinksFunction = () => [
 	{
 		rel: 'mask-icon',
 		href: '/safari-pinned-tab.svg?v=orange-emoji',
-		color: '#faa339',
+		color: '#ff0000',
 	},
 	{
 		rel: 'shortcut icon',
@@ -128,17 +128,17 @@ const Document: FC<{ children?: ReactNode }> = ({ children }) => {
 			<head>
 				<meta charSet="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<meta name="apple-mobile-web-app-title" content="Orange Meets" />
-				<meta name="application-name" content="Orange Meets" />
-				<meta name="msapplication-TileColor" content="#ffffff" />
+				<meta name="apple-mobile-web-app-title" content="READTalk" />
+				<meta name="application-name" content="READTalk" />
+				<meta name="msapplication-TileColor" content="#ff0000" />
 				<meta
 					name="theme-color"
-					content="#ffffff"
+					content="#ff0000"
 					media="(prefers-color-scheme: light)"
 				/>
 				<meta
 					name="theme-color"
-					content="#232325"
+					content="#ff0000"
 					media="(prefers-color-scheme: dark)"
 				/>
 				<Meta />
