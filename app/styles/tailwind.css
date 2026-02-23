@@ -29,7 +29,7 @@
 
 	* {
 		outline-offset: 0.25rem;
-		outline-color: theme('colors.orange[500]');
+		outline-color: theme('colors.red[500]');
 	}
 }
 
@@ -41,26 +41,26 @@
 
 	.orange-glow-text {
 		text-shadow:
-			0px 0px 2px theme('colors.orange[300]'),
-			0px 0px 4px theme('colors.orange[300]'),
-			0px 0px 8px theme('colors.orange[300]'),
-			0px 0px 12px theme('colors.orange[300]'),
-			0px 0px 16px theme('colors.orange[300]'),
-			0px 0px 24px theme('colors.orange[300]'),
-			0px 0px 32px theme('colors.orange[300]');
+			0px 0px 2px theme('colors.red[300]'),
+			0px 0px 4px theme('colors.red[300]'),
+			0px 0px 8px theme('colors.red[300]'),
+			0px 0px 12px theme('colors.red[300]'),
+			0px 0px 16px theme('colors.red[300]'),
+			0px 0px 24px theme('colors.red[300]'),
+			0px 0px 32px theme('colors.red[300]');
 	}
 
 	.orange-glow-box {
 		box-shadow:
-			0px 0px 2px theme('colors.orange[300]'),
-			0px 0px 4px theme('colors.orange[300]'),
-			0px 0px 8px theme('colors.orange[300]'),
-			0px 0px 12px theme('colors.orange[300]'),
-			0px 0px 16px theme('colors.orange[300]'),
-			0px 0px 24px theme('colors.orange[300]'),
-			0px 0px 32px theme('colors.orange[300]'),
-			0px 0px 64px theme('colors.orange[300]'),
-			0px 0px 128px theme('colors.orange[300]');
+			0px 0px 2px theme('colors.red[300]'),
+			0px 0px 4px theme('colors.red[300]'),
+			0px 0px 8px theme('colors.red[300]'),
+			0px 0px 12px theme('colors.red[300]'),
+			0px 0px 16px theme('colors.red[300]'),
+			0px 0px 24px theme('colors.red[300]'),
+			0px 0px 32px theme('colors.red[300]'),
+			0px 0px 64px theme('colors.red[300]'),
+			0px 0px 128px theme('colors.red[300]');
 	}
 
 	.text-shadow {
