@@ -111,7 +111,7 @@ export const links: LinksFunction = () => [
 	},
 	{
 		rel: 'shortcut icon',
-		href: '/favicon.ico?v=orange',
+		href: '/favicon.ico',
 	},
 ]
 
