@@ -6,8 +6,8 @@ import { cn } from '~/utils/style'
 const displayTypeMap = {
 	primary: [
 		'text-white',
-		'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 active:bg-orange-800',
-		'border-orange-500 hover:border-orange-600 active:border-orange-700 active:border-orange-800',
+		'bg-red-500 hover:bg-red-600 active:bg-red-700 active:bg-red-800',
+		'border-red-500 hover:border-red-600 active:border-red-700 active:border-red-800',
 	],
 	secondary: [
 		'text-zinc-900 dark:text-zinc-100',
