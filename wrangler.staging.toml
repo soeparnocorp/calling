@@ -23,7 +23,7 @@ name = "rooms"
 class_name = "ChatRoom"
 
 [vars]
-CALLS_APP_ID = "9effffd0c077c1115c7d285e55593a9a"
+CALLS_APP_ID = "fddc2d745a8682aea944b89179d4e8e1"
 TURN_SERVICE_ID = "11cebcf8429b947a48c6894650daa021"
 EXPERIMENTAL_SIMULCAST_ENABLED = "true"
 
