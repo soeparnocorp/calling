@@ -15,7 +15,7 @@ globs = ["**/*.js"]
 
 [vars]
 CALLS_APP_ID = "fddc2d745a8682aea944b89179d4e8e1"
-TURN_SERVICE_ID = "46711d6c5759085dd70f599f6190ab94"
+TURN_SERVICE_ID = "f2f8c6d8f31d7b0a1adf2bf76cd5b45b"
 PUBLIC = "true"
 E2EE_ENABLED = "true"
 
